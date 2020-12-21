@@ -1,2 +1,3 @@
-# cashlesso-dotnet-pg-hosted
-Dotnet pg hosted interrogation kit
+# cashlesso-dotnet-pg-hosted-integration
+
+Cashlesso PG hosted dotnet integration
